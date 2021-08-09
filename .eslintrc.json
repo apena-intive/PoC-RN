@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "react": {
+      "version": "latest"
+    }
+  },
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "airbnb",
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 12,
+    "sourceType": "module"
+  },
+  "plugins": ["react", "prettier", "jest"],
+  "rules": {
+    "react/prop-types": 0,
+    "import/no-unresolved": 0,
+    "import/prefer-default-export": 0,
+    "react/jsx-props-no-spreading": 0
+  }
+}

@@ -1,0 +1,37 @@
+import { StyleSheet } from 'react-native';
+import Colors from '../../../constants/Colors';
+
+export const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: 'center',
+  },
+  form: {
+    paddingHorizontal: 15,
+    width: '100%',
+  },
+  text: {
+    fontSize: 12,
+    paddingTop: 10,
+    color: Colors.link,
+  },
+  image: {
+    height: 100,
+    width: 150,
+    margin: 10,
+  },
+  subtitle: {
+    fontSize: 20,
+    fontWeight: 'bold',
+    color: Colors.black,
+    alignSelf: 'center',
+  },
+  secondaryView: {
+    paddingBottom: 40,
+  },
+  error: {
+    paddingBottom: 25,
+    color: Colors.negative,
+    paddingHorizontal: 20,
+  },
+});

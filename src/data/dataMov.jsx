@@ -1,0 +1,92 @@
+export const dataMov = [
+  {
+    id: 1,
+    date: '2021-06-25T10:51:36.790Z',
+    description: 'A Description',
+    amount: 50000.874,
+  },
+  {
+    id: 2,
+    date: '2021-05-01T10:51:36.790Z',
+    description: 'A Description es muy largaaaaaaaaaaaaaaaaa',
+    amount: -52000,
+  },
+  {
+    id: 3,
+    date: '2021-04-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 1500,
+  },
+  {
+    id: 4,
+    date: '2021-03-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 523,
+  },
+  {
+    id: 5,
+    date: '2021-02-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 6132,
+  },
+  {
+    id: 6,
+    date: '2021-01-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: -1230,
+  },
+  {
+    id: 7,
+    date: '2020-12-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 45,
+  },
+  {
+    id: 8,
+    date: '2020-11-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 1334,
+  },
+  {
+    id: 9,
+    date: '2020-08-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: -3455,
+  },
+  {
+    id: 10,
+    date: '2020-07-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 12312,
+  },
+  {
+    id: 11,
+    date: '2020-06-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: -12312,
+  },
+  {
+    id: 12,
+    date: '2020-05-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 12312,
+  },
+  {
+    id: 13,
+    date: '2020-04-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: -12312,
+  },
+  {
+    id: 14,
+    date: '2020-03-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 12312,
+  },
+  {
+    id: 15,
+    date: '2020-02-01T10:51:36.790Z',
+    description: 'A Description',
+    amount: 12312,
+  },
+];
