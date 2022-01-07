@@ -86,7 +86,7 @@ In order to run the project locally, you will need to perform the following step
 
 ## Roadmap
 
-See our [Trello](https://trello.com/b/kOY7Tom3/poc) to find out what we did.
+See our [Trello](https://trello.com/b/kOY7Tom3/poc) to find out what we did. (Private)
 
 <!-- ACKNOWLEDGEMENTS -->
 
